@@ -1,1 +1,2 @@
 # T20-World-Cup-2024-Analysis
+Conducted a detailed analysis of the T20 World Cup 2024, highlighting the top 5 batsmen and bowlers. Performed extensive data wrangling and analysis to evaluate team performances, assess the impact of toss decisions on match outcomes, and calculate winning percentages. The primary goal was to uncover crucial performance insights and trends to improve understanding and inform strategic decision-making in cricket.
